@@ -1,1 +1,14 @@
 # Webdev-Cohort-Blogs
+1) https://webdev-cohort.hashnode.dev/
+2) https://version-control-systemvcs.hashnode.dev/
+3) https://git-ting-started.hashnode.dev/
+4) https://code-boss.hashnode.dev/
+5) https://web-devcohort.hashnode.dev/
+6) https://webdev-cohort26.hashnode.dev/
+7) https://web-devcohort2.hashnode.dev/
+8) https://webdev-cohort3.hashnode.dev/
+9) https://webdev-cohort4.hashnode.dev/
+10) https://webdev-cohort5.hashnode.dev/
+11) https://webdev-cohort6.hashnode.dev/
+12) https://webdev-cohort7.hashnode.dev/
+13) https://webdev-cohort8.hashnode.dev/
